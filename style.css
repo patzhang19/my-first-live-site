@@ -1,0 +1,21 @@
+body {
+    background-color: honeydew;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    color: blue;
+}
+
+div {
+    background-color: bisque;
+    margin: auto;
+    padding: 20px;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px black;
+}
